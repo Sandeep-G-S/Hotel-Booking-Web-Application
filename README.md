@@ -66,11 +66,11 @@ The frontend will start at **[http://localhost:5174](http://localhost:5174)** �
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots  
 
-| **Dashboard**                           | **Room Booking**                    |
-| --------------------------------------- | ----------------------------------- |
-| ![Dashboard](screenshots/dashboard.png) | ![Booking](screenshots/booking.png) |
+| **Dashboard**                           | **Room Booking**                    | **Available Rooms**                     |
+| --------------------------------------- | ----------------------------------- | ---------------------------------------- |
+| ![Dashboard](screenshots/Availablerooms.png) | ![Booking](screenshots/Dashboard.png) | ![Available Rooms](screenshots/RoomBooking.png) |
 
 ---
 
