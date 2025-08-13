@@ -77,14 +77,3 @@ The frontend will start at **[http://localhost:5174](http://localhost:5174)** �
 ## 🔗 Future Enhancements
 
 * 💳 **Automated Billing & Payment Gateway**
-
----
-
-```
-
----
-
-If you want, I can also **add your actual screenshots** from your hotel project folder automatically into this README so it’s ready to upload to GitHub without manual editing. That way, the README will directly display your real UI instead of placeholders like `dashboard.png`.  
-
-Do you want me to prepare it that way?
-```
